@@ -1,1 +1,1 @@
-include: ./st_slider.py
+include: "/mount/src/sthelloworld/st_slider.py"
