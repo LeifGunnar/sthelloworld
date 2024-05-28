@@ -1,1 +1,1 @@
-include: st_slider.py
+include: ./st_slider.py
